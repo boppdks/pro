@@ -1,28 +1,6 @@
 {
-    "next_id": 14,
+    "next_id": 21,
     "sessions": [
-        {
-            "file_name": "sessions_254719208278.session",
-            "start_time": "2025-09-11T22:46:31.145862+03:00",
-            "temporary": false,
-            "user_id": 7635214770,
-            "id": 1
-        },
-        {
-            "file_name": "sessions_2349047972753.session",
-            "start_time": "2025-09-12T09:49:31.203854+03:00",
-            "temporary": false,
-            "user_id": 7635214770,
-            "id": 2
-        },
-        {
-            "file_name": "sessions_9647744846471.session",
-            "start_time": "2025-09-12T13:01:02.593300+03:00",
-            "temporary": true,
-            "user_id": 7635214770,
-            "end_time": "2025-09-12T17:01:02.593316+03:00",
-            "id": 3
-        },
         {
             "file_name": "sessions_201129404211.session",
             "start_time": "2025-09-12T18:22:26.751962+03:00",
@@ -31,62 +9,20 @@
             "id": 4
         },
         {
-            "file_name": "sessions_2349135879701.session",
-            "start_time": "2025-09-12T18:30:31.862968+03:00",
-            "temporary": false,
+            "file_name": "sessions_9647744846471.session",
+            "start_time": "2025-09-15T21:41:38.212226+03:00",
+            "temporary": true,
             "user_id": 7635214770,
-            "id": 6
-        },
-        {
-            "file_name": "sessions_2349135879701.session",
-            "start_time": "2025-09-13T03:20:40.423722+03:00",
-            "temporary": false,
-            "user_id": 7635214770,
-            "id": 7
+            "end_time": "2025-10-15T21:41:38.212240+03:00",
+            "id": 19
         },
         {
             "file_name": "sessions_9647744846471.session",
-            "start_time": "2025-09-13T17:34:01.842002+03:00",
+            "start_time": "2025-09-15T21:55:28.311168+03:00",
             "temporary": true,
             "user_id": 7635214770,
-            "end_time": "2025-09-15T17:34:01.842014+03:00",
-            "id": 8
-        },
-        {
-            "file_name": "sessions_9647780208067.session",
-            "start_time": "2025-09-14T18:46:45.597704+03:00",
-            "temporary": false,
-            "user_id": 7635214770,
-            "id": 9
-        },
-        {
-            "file_name": "sessions_9647701246670.session",
-            "start_time": "2025-09-14T19:42:17.626905+03:00",
-            "temporary": true,
-            "user_id": 7635214770,
-            "end_time": "2025-09-14T23:42:17.626917+03:00",
-            "id": 10
-        },
-        {
-            "file_name": "sessions_9647701246670.session",
-            "start_time": "2025-09-14T19:46:23.662951+03:00",
-            "temporary": false,
-            "user_id": 7635214770,
-            "id": 11
-        },
-        {
-            "file_name": "sessions_9647780208067.session",
-            "start_time": "2025-09-15T16:41:06.117953+03:00",
-            "temporary": false,
-            "user_id": 7635214770,
-            "id": 12
-        },
-        {
-            "file_name": "sessions_9647780208067.session",
-            "start_time": "2025-09-15T16:44:29.613130+03:00",
-            "temporary": false,
-            "user_id": 7635214770,
-            "id": 13
+            "end_time": "2025-10-15T21:55:28.311180+03:00",
+            "id": 20
         }
     ]
 }
